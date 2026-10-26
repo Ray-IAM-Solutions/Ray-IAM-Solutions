@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Raymond,  an aspiring IAM Professional 👋
 
-<!--
-**Ray-IAM-Solutions/Ray-IAM-Solutions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Identity and Access Management | Microsoft Active Directory | Microsoft Entra ID 
 
-Here are some ideas to get you started:
+I am  an IAM entusiast developing practical skills in identity administration, access control, account lifecycle management, and identity security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My goal is to help organizations protect their users, systems, and business resources through secure identity and access manement practices.
+
+## 🔐 Skilols I'am Developing
+
+- Microsoft Active Directory administartion
+- Users and group management
+- Organizational Units (OUs) and Group Policy
+- Role-Based Access Control (RBAC)
+- Least Privilege and access reviews
+- Joiner, Mover, and Leaver (JML) processes
+- PowerShell fundamentals
+- Microsoft Entra ID and cloud identity security
