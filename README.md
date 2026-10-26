@@ -6,7 +6,7 @@ I am  an IAM entusiast developing practical skills in identity administration, a
 
 My goal is to help organizations protect their users, systems, and business resources through secure identity and access manement practices.
 
-## 🔐 Skilols I'am Developing
+## 🔐 Skills I'am Developing
 
 - Microsoft Active Directory administartion
 - Users and group management
