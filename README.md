@@ -6,7 +6,7 @@ I am  an IAM entusiast developing practical skills in identity administration, a
 
 My goal is to help organizations protect their users, systems, and business resources through secure identity and access manement practices.
 
-## 🔐 Skills I'am Developing
+## 📚 Skills I'am Developing
 
 - Microsoft Active Directory administartion
 - Users and group management
@@ -26,10 +26,10 @@ My goal is to help organizations protect their users, systems, and business reso
 - GitHub
 - Microsoft Entra ID (learning lab) - currently learning
 
-  # Featured Work
+  # 📁 Featured Work
   Explore my repositories for lab documentation, screenshots, and configuration steps, test results, and security recommendations.
 
-  # Career Goal
+  # 🎯 Career Goal
   To grow into and IAM Analyst, Identity Administrator, or Junior Identity Security Engineer role.
 
   I believe in continuous learning, least privilege, clear documenttation, and practical security testing.
