@@ -33,4 +33,6 @@ My goal is to help organizations protect their users, systems, and business reso
   To grow into and IAM Analyst, Identity Administrator, or Junior Identity Security Engineer role.
 
   I believe in continuous learning, least privilege, clear documenttation, and practical security testing.
+
+  _All practical demonstrations are performed in authorized lab environment <br> using test identities and fictional business data_
   
