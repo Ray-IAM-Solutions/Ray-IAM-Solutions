@@ -15,14 +15,14 @@ My goal is to help organizations protect their users, systems, and business reso
 - Least Privilege and access reviews
 - Joiner, Mover, and Leaver (JML) processes
 - PowerShell fundamentals
-- Microsoft Entra ID and cloud identity security - currently learning
+- Microsoft Entra ID and cloud identity security 
 
 ## 🛠️ Tools
 - Windows Server
 - Windows ckient virtual machine
 - Active Directory Users and Computers
 - Group Policy Management
-- Basic PowerShell
+- Basic PowerShell - currently learning
 - GitHub
 - Microsoft Entra ID (learning lab) - currently learning
 
