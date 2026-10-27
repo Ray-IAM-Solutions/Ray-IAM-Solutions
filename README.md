@@ -15,4 +15,22 @@ My goal is to help organizations protect their users, systems, and business reso
 - Least Privilege and access reviews
 - Joiner, Mover, and Leaver (JML) processes
 - PowerShell fundamentals
-- Microsoft Entra ID and cloud identity security
+- Microsoft Entra ID and cloud identity security - currently learning
+
+## 🛠️ Tools
+- Windows Server
+- Windows ckient virtual machine
+- Active Directory Users and Computers
+- Group Policy Management
+- Basic PowerShell
+- GitHub
+- Microsoft Entra ID (learning lab) - currently learning
+
+  # Featured Work
+  Explore my repositories for lab documentation, screenshots, and configuration steps, test results, and security recommendations.
+
+  # Career Goal
+  To grow into and IAM Analyst, Identity Administrator, or Junior Identity Security Engineer role.
+
+  I believe in continuous learning, least privilege, clear documenttation, and practical security testing.
+  
